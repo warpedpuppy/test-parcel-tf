@@ -10,7 +10,7 @@
     "scripts": {
         "dev": "parcel src/index.html",
         "start": "parcel src/index.html",
-        "build": "parcel build src/index.html",
+        "build": "parcel build dist/index.html",
         "heroku-postbuild": "parcel build src/index.html"
     },
     "author": "",
